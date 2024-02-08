@@ -1,0 +1,1 @@
+The provided Python code is a basic calculator program that allows users to choose from four arithmetic operations: addition, subtraction, multiplication, and division. The program displays a menu with these options and prompts the user to enter a corresponding number.
